@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Presentacion.exe
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Presentacion.deps.json
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Presentacion.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Presentacion.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Presentacion.dll
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\ref\Presentacion.dll
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Presentacion.pdb
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.dll
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\ref\Presentacion.dll
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.pdb
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.genruntimeconfig.cache
