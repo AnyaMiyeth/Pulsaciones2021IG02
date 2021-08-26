@@ -1,5 +1,6 @@
 ﻿using System;
-
+using Logica;
+using Entidades;
 namespace Presentacion
 {
     class Program
@@ -9,8 +10,6 @@ namespace Presentacion
             string identificacion, nombre;
             int edad;
             string sexo;
-            decimal pulsacion;
-
             Console.WriteLine("Calculo de Pulsaciones!!!");
             Console.WriteLine("Digite la Identificación");
             identificacion = Console.ReadLine();
@@ -19,21 +18,14 @@ namespace Presentacion
             Console.WriteLine("Digite la Edad");
             edad = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite la Sexo");
-           sexo = Console.ReadLine();
-            if (sexo.ToUpper().Equals("F"))
-            {
-                pulsacion = (220 - edad) / 10;
-            }
-            else if (sexo.ToUpper().Equals("M"))
-            {
-                pulsacion = (210 - edad) / 10;
-            }
-            else
-            {
-                pulsacion = 0;
-            }
+            sexo = Console.ReadLine();
 
-            Console.WriteLine($"Señor(a) {nombre} de acuerdo a su edad {edad} y su sexo {sexo} su pulsacióne es {pulsacion}");
+            Persona persona = new Persona(identificacion, nombre, edad, sexo);
+            persona.CalcularPulsacion();
+            PersonaService personaService = new PersonaService();
+            string mensaje=personaService.Guardar(persona);
+            Console.WriteLine(mensaje);
+            Console.WriteLine($"Señor(a) {persona.Nombre} de acuerdo a su edad {persona.Edad} y su sexo {persona.Sexo} su pulsacióne es {persona.Pulsacion}");
         }
     }
 }

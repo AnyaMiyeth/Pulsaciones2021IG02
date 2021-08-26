@@ -14,3 +14,10 @@ C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\
 C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\ref\Presentacion.dll
 C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.pdb
 C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Datos.dll
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Logica.dll
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Logica.pdb
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Datos.pdb
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\obj\Debug\net5.0\Presentacion.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Entidades.dll
+C:\Users\LENOVO\source\repos\Pulsaciones20212GG02\Presentacion\bin\Debug\net5.0\Entidades.pdb
