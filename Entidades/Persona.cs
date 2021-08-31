@@ -17,7 +17,10 @@ namespace Entidades
         public int Edad { get; set; }
         public string Sexo { get; set; }
         public decimal Pulsacion { get; set; }
+        public Persona()
+        {
 
+        }
         public void CalcularPulsacion()
         {
             if (Sexo.ToUpper().Equals("F"))
